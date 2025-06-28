@@ -13,7 +13,7 @@ describe("index.js", () => {
     expect(oink).to.exist
     expect(oink).to.equal("pig")
     expect(cluck).to.exist
-    expect(cluck).to.equal("chicken")
+    expect(cluck).to.equal("chicken")// sweet  chicken
   })
   it("String: uses destructuring to declare the four traditional animal names", () => {
     expect(bessie).to.exist
